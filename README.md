@@ -17,6 +17,6 @@ throw new numberformat exception("invalid parsing");
 }
 else
 {
-system.out.println("valur is num"+num);
+system.out.println("value is num"+num);
 }
 }
